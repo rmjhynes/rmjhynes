@@ -14,7 +14,7 @@
 
 ###
 
-<h1 align="left">Tech</h1>
+<h1 align="left">I code with</h1>
 
 ###
 
@@ -47,5 +47,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/slack/4A154B" height="40" alt="slack logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
 </div>
+
+###
