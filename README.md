@@ -1,10 +1,5 @@
-<h1 align="left">Profile</h1>
-
-###
-
-<p align="left">DevOps Engineer<br>London</p>
-
-###
+Platform and Site Reliability Engineer
+London
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rmjhynes/" target="_blank">
@@ -12,4 +7,3 @@
   </a>
 </div>
 
-###
