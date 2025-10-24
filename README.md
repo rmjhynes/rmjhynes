@@ -1,4 +1,4 @@
-# Platform and Site Reliability Engineer | London
+# Platform and Site Reliability Engineer
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rmjhynes/" target="_blank">
